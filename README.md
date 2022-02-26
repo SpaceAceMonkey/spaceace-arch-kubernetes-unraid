@@ -132,6 +132,7 @@ If you are following along in Unraid, a VNC terminal will have been automaticall
 ***Other VNC clients***
 
 `Look for the "Graphics" heading` next to the chosen virtual machine on your `Unraid VMs page.` The `VNC:5900` in the image below means you can connect to the VNC server running on `port 5900` on `your Unraid box's IP address.`
+
 ![Use another VNC client](images/other_vnc_client_info.png)
 
 &nbsp;
