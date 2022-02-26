@@ -982,7 +982,7 @@ If your node has successfully joined the cluster, proceed to step #5. If you enc
 
 &nbsp;
 
-## Final test
+## Step 5: Final test
 
 `Execute these commands from the control plane.`
 
