@@ -340,7 +340,7 @@ root@archiso ~ # ip addr
        valid_lft forever preferred_lft forever
 ```
 
-Ping a known hose to verify network connectivity.
+Ping a known host to verify network connectivity.
 
 ```
 ping google.com
