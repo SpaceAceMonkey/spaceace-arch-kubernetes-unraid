@@ -22,7 +22,7 @@ __**Note:**__ The rest of this guide assumes you are working from the bash shell
 ## Let's do this
 [Step 1: obtain an Arch Linux ISO](#step-1-obtain-an-arch-linux-iso)
 
-[Step 2: privision virtual machines](#step-2-provision-virtual-machines)
+[Step 2: provision virtual machines](#step-2-provision-virtual-machines)
 
 [Step 3: install Arch Linux](#step-3-install-arch-linux)
 
